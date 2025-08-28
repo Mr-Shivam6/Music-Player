@@ -35,15 +35,7 @@ It provides a **simple yet interactive interface** for playing audio files with 
 
 ---
 
-## 🎥 Demo Preview  
 
-<p align="center">
-  <img src="images/demo.gif" alt="Music Player Demo" width="600">
-</p>  
-
-Or watch the full demo here 👉 [YouTube Link](https://youtube.com/)  
-
----
 
 ## 💡 Learning Outcomes  
 
