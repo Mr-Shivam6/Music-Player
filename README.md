@@ -30,7 +30,8 @@ It provides a **simple yet interactive interface** for playing audio files with 
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="images/screenshot.png" alt="Music Player Screenshot" width="600">
+  <img src="Screenshot 2025-09-06 234728.png
+" alt="Music Player Screenshot" width="600">
 </p>
 
 ---
